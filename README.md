@@ -12,7 +12,7 @@ Django plugin for using [Editor.js](https://editorjs.io/)
 ## Installation
 
 ```bash
-pip install django-editorjs-fields
+pip install git+https://github.com/tourbillonlabs/django-editorjs-fields.git
 ```
 
 Add `django_editorjs_fields` to `INSTALLED_APPS` in `settings.py` for your project:
